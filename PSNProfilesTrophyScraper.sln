@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSNProfilesTrophyScraper", "PSNProfilesTrophyScraper\PSNProfilesTrophyScraper.csproj", "{A31A9C48-0051-4924-BA43-7D5F6230F484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31A9C48-0051-4924-BA43-7D5F6230F484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31A9C48-0051-4924-BA43-7D5F6230F484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31A9C48-0051-4924-BA43-7D5F6230F484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31A9C48-0051-4924-BA43-7D5F6230F484}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
